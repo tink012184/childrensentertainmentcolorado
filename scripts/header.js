@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
             >Children's Entertainment Colorado</a
           >
           <a href="https://bestsoundcolorado.com/">Best Sound Colorado</a>
-          <a href="https://allentertainment.com/about">About All Entertainment Colorado</a>
+          <a href="http://www.allentertainmentcolorado.com/about">About All Entertainment Colorado</a>
         </nav>
       </div>
   `;
